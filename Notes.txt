@@ -1,0 +1,1 @@
+Ensure the images directory contains appropriately named images for each month (e.g., 2024-05.jpg). When you open index.html in a web browser, you can navigate through different months using the Previous Month and Next Month buttons, and the image will update accordingly.
